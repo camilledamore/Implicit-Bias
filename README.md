@@ -30,6 +30,8 @@ For q65, the average time for completion was substantially longer at 101.15s, wh
 #### Figure 1: Violin Plot of Completion Time for q65 and q66 for each Racial Group.
 Dots indicate individual participants. Solid lines indicate the respective average of completion time for the two parts of the test, q65 and q66. Please note the difference in y-axis scales.
 
+<br/>
+<br/>
 
 
 <img width="300" alt="Screen Shot 2024-06-12 at 11 15 51 PM" src="https://github.com/camilledamore/Implicit-Bias/assets/157072047/f4fff337-8c23-4980-9aee-c21802cee0fe">
