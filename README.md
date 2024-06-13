@@ -1,4 +1,4 @@
-# Does Race or Language Influence Implicit Biases?
+# Does Race or Language Influence Implicit Bias?
 An analysis of data from an implicit bias test conducted on economics students. 
 
 ## Introduction 
