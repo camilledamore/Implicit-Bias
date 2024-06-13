@@ -1,0 +1,222 @@
+Progress,Duration..in.seconds.,Finished,ResponseId,UserLanguage,Q65_First.Click,Q65_Last.Click,Q65_Page.Submit,Q65_Click.Count,a1_1,a2_1,a3_1,a4_1,a5_1,a6_1,a7_1,a8_1,a9_1,a10_1,a11_1,a12_1,a13_1,a14_1,a15_1,a16_1,a17_1,a18_1,a19_1,a20_1,a21_1,a22_1,a23_1,a24_1,a25_1,a26_1,a27_1,a28_1,Q66_First.Click,Q66_Last.Click,Q66_Page.Submit,Q66_Click.Count,b1_1,b2_1,b3_1,b4_1,b5_1,b6_1,b7_1,b8_1,b9_1,b10_1,b11_1,b12_1,b13_1,b14_1,b15_1,b16_1,b17_1,b18_1,b19_1,b20_1,b21_1,b22_1,b23_1,b24_1,b25_1,b26_1,b27_1,b28_1,nationality,race_ethnicity,english,gender,knowing_words_0_GROUP,knowing_words_1_GROUP,knowing_words_0_1_RANK,knowing_words_0_2_RANK,knowing_words_0_3_RANK,knowing_words_0_4_RANK,knowing_words_0_5_RANK,knowing_words_0_6_RANK,knowing_words_0_7_RANK,knowing_words_0_8_RANK,knowing_words_0_9_RANK,knowing_words_0_10_RANK,knowing_words_0_11_RANK,knowing_words_0_12_RANK,knowing_words_0_13_RANK,knowing_words_0_14_RANK,knowing_words_0_15_RANK,knowing_words_0_16_RANK,knowing_words_0_17_RANK,knowing_words_0_18_RANK,knowing_words_0_19_RANK,knowing_words_0_20_RANK,knowing_words_0_21_RANK,knowing_words_0_22_RANK,knowing_words_0_23_RANK,knowing_words_0_24_RANK,knowing_words_0_25_RANK,knowing_words_0_26_RANK,knowing_words_0_27_RANK,knowing_words_0_28_RANK,knowing_words_1_1_RANK,knowing_words_1_2_RANK,knowing_words_1_3_RANK,knowing_words_1_4_RANK,knowing_words_1_5_RANK,knowing_words_1_6_RANK,knowing_words_1_7_RANK,knowing_words_1_8_RANK,knowing_words_1_9_RANK,knowing_words_1_10_RANK,knowing_words_1_11_RANK,knowing_words_1_12_RANK,knowing_words_1_13_RANK,knowing_words_1_14_RANK,knowing_words_1_15_RANK,knowing_words_1_16_RANK,knowing_words_1_17_RANK,knowing_words_1_18_RANK,knowing_words_1_19_RANK,knowing_words_1_20_RANK,knowing_words_1_21_RANK,knowing_words_1_22_RANK,knowing_words_1_23_RANK,knowing_words_1_24_RANK,knowing_words_1_25_RANK,knowing_words_1_26_RANK,knowing_words_1_27_RANK,knowing_words_1_28_RANK,SC1,SC2
+Progress,Duration (in seconds),Finished,Response ID,User Language,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,ORCHID - INSECT or pleasant word:FLOWER or unpleasant word,gentle - INSECT or pleasant word:FLOWER or unpleasant word,ROSE - INSECT or pleasant word:FLOWER or unpleasant word,heaven - INSECT or pleasant word:FLOWER or unpleasant word,FLEA - INSECT or pleasant word:FLOWER or unpleasant word,damage - INSECT or pleasant word:FLOWER or unpleasant word,DAFFODIL - INSECT or pleasant word:FLOWER or unpleasant word,cheer - INSECT or pleasant word:FLOWER or unpleasant word,CENTIPEDE - INSECT or pleasant word:FLOWER or unpleasant word,vomit - INSECT or pleasant word:FLOWER or unpleasant word,GNAT - INSECT or pleasant word:FLOWER or unpleasant word,hurt - INSECT or pleasant word:FLOWER or unpleasant word,LILAC - INSECT or pleasant word:FLOWER or unpleasant word,love - INSECT or pleasant word:FLOWER or unpleasant word,TULIP - INSECT or pleasant word:FLOWER or unpleasant word,enjoy - INSECT or pleasant word:FLOWER or unpleasant word,WASP - INSECT or pleasant word:FLOWER or unpleasant word,poison - INSECT or pleasant word:FLOWER or unpleasant word,ROACH - INSECT or pleasant word:FLOWER or unpleasant word,evil - INSECT or pleasant word:FLOWER or unpleasant word,DAISY - INSECT or pleasant word:FLOWER or unpleasant word,gloom - INSECT or pleasant word:FLOWER or unpleasant word,MOTH - INSECT or pleasant word:FLOWER or unpleasant word,ugly - INSECT or pleasant word:FLOWER or unpleasant word,WEEVIL - INSECT or pleasant word:FLOWER or unpleasant word,happy - INSECT or pleasant word:FLOWER or unpleasant word,LILY - INSECT or pleasant word:FLOWER or unpleasant word,friend - INSECT or pleasant word:FLOWER or unpleasant word,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,ORCHID - FLOWER or pleasant word:INSECT or unpleasant word,gentle - FLOWER or pleasant word:INSECT or unpleasant word,ROSE - FLOWER or pleasant word:INSECT or unpleasant word,heaven - FLOWER or pleasant word:INSECT or unpleasant word,FLEA - FLOWER or pleasant word:INSECT or unpleasant word,damage - FLOWER or pleasant word:INSECT or unpleasant word,DAFFODIL - FLOWER or pleasant word:INSECT or unpleasant word,cheer - FLOWER or pleasant word:INSECT or unpleasant word,CENTIPEDE - FLOWER or pleasant word:INSECT or unpleasant word,vomit - FLOWER or pleasant word:INSECT or unpleasant word,GNAT - FLOWER or pleasant word:INSECT or unpleasant word,hurt - FLOWER or pleasant word:INSECT or unpleasant word,LILAC - FLOWER or pleasant word:INSECT or unpleasant word,love - FLOWER or pleasant word:INSECT or unpleasant word,TULIP - FLOWER or pleasant word:INSECT or unpleasant word,enjoy - FLOWER or pleasant word:INSECT or unpleasant word,WASP - FLOWER or pleasant word:INSECT or unpleasant word,poison - FLOWER or pleasant word:INSECT or unpleasant word,ROACH - FLOWER or pleasant word:INSECT or unpleasant word,evil - FLOWER or pleasant word:INSECT or unpleasant word,DAISY - FLOWER or pleasant word:INSECT or unpleasant word,gloom - FLOWER or pleasant word:INSECT or unpleasant word,MOTH - FLOWER or pleasant word:INSECT or unpleasant word,ugly - FLOWER or pleasant word:INSECT or unpleasant word,WEEVIL - FLOWER or pleasant word:INSECT or unpleasant word,happy - FLOWER or pleasant word:INSECT or unpleasant word,LILY - FLOWER or pleasant word:INSECT or unpleasant word,friend - FLOWER or pleasant word:INSECT or unpleasant word,What is your nationality?,Describe your race / ethnicity.,Is English your native language?,What is your gender identity?,"Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Groups - I know this word.","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Groups - I don't know this word, or at least I'm not 100% sure what it means.","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - orchid - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - gentle - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - rose - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - heaven - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - flea - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - damage - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - daffodil - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - cheer - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - centipede - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - vomit - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - gnat - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - hurt - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - lilac - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - love - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - tulip - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - enjoy - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - wasp - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - poison - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - roach - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - evil - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - daisy - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - gloom - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - moth - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - ugly - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - weevil - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - happy - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - lily - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I know this word. - friend - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - orchid - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - gentle - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - rose - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - heaven - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - flea - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - damage - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - daffodil - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - cheer - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - centipede - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - vomit - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - gnat - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - hurt - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - lilac - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - love - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - tulip - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - enjoy - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - wasp - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - poison - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - roach - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - evil - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - daisy - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - gloom - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - moth - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - ugly - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - weevil - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - happy - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - lily - Rank","Which of these words do you know?
+ 
+
+Drag and drop them to the category that applies. Please be honest. - Ranks - I don't know this word, or at least I'm not 100% sure what it means. - friend - Rank",score_A,score_B
+"{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""_recordId""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID65_FIRST_CLICK""}","{""ImportId"":""QID65_LAST_CLICK""}","{""ImportId"":""QID65_PAGE_SUBMIT""}","{""ImportId"":""QID65_CLICK_COUNT""}","{""ImportId"":""QID29_1""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID47_1""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID48_1""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID49_1""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID50_1""}","{""ImportId"":""QID36_1""}","{""ImportId"":""QID51_1""}","{""ImportId"":""QID37_1""}","{""ImportId"":""QID52_1""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID53_1""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID54_1""}","{""ImportId"":""QID41_1""}","{""ImportId"":""QID58_1""}","{""ImportId"":""QID42_1""}","{""ImportId"":""QID59_1""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID60_1""}","{""ImportId"":""QID44_1""}","{""ImportId"":""QID61_1""}","{""ImportId"":""QID45_1""}","{""ImportId"":""QID62_1""}","{""ImportId"":""QID46_1""}","{""ImportId"":""QID66_FIRST_CLICK""}","{""ImportId"":""QID66_LAST_CLICK""}","{""ImportId"":""QID66_PAGE_SUBMIT""}","{""ImportId"":""QID66_CLICK_COUNT""}","{""ImportId"":""QID68_1""}","{""ImportId"":""QID69_1""}","{""ImportId"":""QID70_1""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID72_1""}","{""ImportId"":""QID73_1""}","{""ImportId"":""QID74_1""}","{""ImportId"":""QID75_1""}","{""ImportId"":""QID76_1""}","{""ImportId"":""QID77_1""}","{""ImportId"":""QID78_1""}","{""ImportId"":""QID79_1""}","{""ImportId"":""QID80_1""}","{""ImportId"":""QID81_1""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID83_1""}","{""ImportId"":""QID84_1""}","{""ImportId"":""QID85_1""}","{""ImportId"":""QID86_1""}","{""ImportId"":""QID87_1""}","{""ImportId"":""QID88_1""}","{""ImportId"":""QID89_1""}","{""ImportId"":""QID90_1""}","{""ImportId"":""QID91_1""}","{""ImportId"":""QID92_1""}","{""ImportId"":""QID93_1""}","{""ImportId"":""QID94_1""}","{""ImportId"":""QID95_1""}","{""ImportId"":""QID11_TEXT""}","{""ImportId"":""QID96_TEXT""}","{""ImportId"":""QID14""}","{""ImportId"":""QID13""}","{""ImportId"":""QID15_0_GROUP""}","{""ImportId"":""QID15_1_GROUP""}","{""ImportId"":""QID15_G0_1_RANK""}","{""ImportId"":""QID15_G0_2_RANK""}","{""ImportId"":""QID15_G0_3_RANK""}","{""ImportId"":""QID15_G0_4_RANK""}","{""ImportId"":""QID15_G0_5_RANK""}","{""ImportId"":""QID15_G0_6_RANK""}","{""ImportId"":""QID15_G0_7_RANK""}","{""ImportId"":""QID15_G0_8_RANK""}","{""ImportId"":""QID15_G0_9_RANK""}","{""ImportId"":""QID15_G0_10_RANK""}","{""ImportId"":""QID15_G0_11_RANK""}","{""ImportId"":""QID15_G0_12_RANK""}","{""ImportId"":""QID15_G0_13_RANK""}","{""ImportId"":""QID15_G0_14_RANK""}","{""ImportId"":""QID15_G0_15_RANK""}","{""ImportId"":""QID15_G0_16_RANK""}","{""ImportId"":""QID15_G0_17_RANK""}","{""ImportId"":""QID15_G0_18_RANK""}","{""ImportId"":""QID15_G0_19_RANK""}","{""ImportId"":""QID15_G0_20_RANK""}","{""ImportId"":""QID15_G0_21_RANK""}","{""ImportId"":""QID15_G0_22_RANK""}","{""ImportId"":""QID15_G0_23_RANK""}","{""ImportId"":""QID15_G0_24_RANK""}","{""ImportId"":""QID15_G0_25_RANK""}","{""ImportId"":""QID15_G0_26_RANK""}","{""ImportId"":""QID15_G0_27_RANK""}","{""ImportId"":""QID15_G0_28_RANK""}","{""ImportId"":""QID15_G1_1_RANK""}","{""ImportId"":""QID15_G1_2_RANK""}","{""ImportId"":""QID15_G1_3_RANK""}","{""ImportId"":""QID15_G1_4_RANK""}","{""ImportId"":""QID15_G1_5_RANK""}","{""ImportId"":""QID15_G1_6_RANK""}","{""ImportId"":""QID15_G1_7_RANK""}","{""ImportId"":""QID15_G1_8_RANK""}","{""ImportId"":""QID15_G1_9_RANK""}","{""ImportId"":""QID15_G1_10_RANK""}","{""ImportId"":""QID15_G1_11_RANK""}","{""ImportId"":""QID15_G1_12_RANK""}","{""ImportId"":""QID15_G1_13_RANK""}","{""ImportId"":""QID15_G1_14_RANK""}","{""ImportId"":""QID15_G1_15_RANK""}","{""ImportId"":""QID15_G1_16_RANK""}","{""ImportId"":""QID15_G1_17_RANK""}","{""ImportId"":""QID15_G1_18_RANK""}","{""ImportId"":""QID15_G1_19_RANK""}","{""ImportId"":""QID15_G1_20_RANK""}","{""ImportId"":""QID15_G1_21_RANK""}","{""ImportId"":""QID15_G1_22_RANK""}","{""ImportId"":""QID15_G1_23_RANK""}","{""ImportId"":""QID15_G1_24_RANK""}","{""ImportId"":""QID15_G1_25_RANK""}","{""ImportId"":""QID15_G1_26_RANK""}","{""ImportId"":""QID15_G1_27_RANK""}","{""ImportId"":""QID15_G1_28_RANK""}","{""ImportId"":""SC_8iBsgASg21TEAAt""}","{""ImportId"":""SC_9ZZKBR6z9rXqRg1""}"
+100,386,TRUE,R_veFUPdzu83FcZrz,EN,24.103,102.942,103.856,30,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,1,1,2,2,1,2,1,6.134,47.777,48.9,30,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,1,2,2,1,1,1,1,American ,White ,Yes,Male,"heaven,friend,lily,ugly,happy,gloom,moth,daisy,evil,roach,poison,wasp,enjoy,tulip,love,lilac,hurt,gnat,cheer,vomit,centipede,daffodil,damage,flea,orchid,rose,gentle",weevil,25,27,26,1,24,23,22,19,21,20,18,17,16,15,14,13,12,11,10,9,8,6,7,4,,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,26,26
+100,242,TRUE,R_3p5vt7XRh4vHmk2,EN,3.176,51.385,52.215,33,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,2,1,2,1,3.18,40.407,41.153,30,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,1,1,1,1,Chinese,Asian,Yes,Male,"orchid,heaven,friend,lily,moth,wasp,happy,ugly,enjoy,gloom,daisy,evil,roach,poison,tulip,love,damage,gentle,lilac,hurt,gnat,vomit,centipede,cheer,daffodil,flea,rose",weevil,1,18,27,2,26,17,25,24,23,22,21,20,19,16,15,9,6,14,13,12,11,10,5,8,,7,4,3,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,27,27
+100,313,TRUE,R_2VfNmHrE5RT2Iqm,EN,8.248,56.119,60.129,29,1,1,1,1,2,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,7.361,44.687,45.876,28,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Russian,White,No,Female,"moth,friend,lily,happy,ugly,wasp,gloom,daisy,evil,roach,poison,tulip,enjoy,hurt,lilac,love,vomit,gnat,cheer,centipede,orchid,daffodil,damage,flea,gentle,heaven,rose",weevil,21,25,27,26,24,23,22,19,20,17,18,14,15,16,12,13,6,11,10,9,8,7,1,5,,4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,25,28
+100,184,TRUE,R_2fiYctUveT8Oaga,EN,1.478,34.692,35.933,30,1,2,1,2,2,2,2,1,2,1,2,1,1,1,2,2,2,2,1,2,1,1,2,2,2,1,2,1,1.928,37.86,39.033,31,2,1,2,1,1,2,1,1,2,2,2,2,2,1,2,1,2,2,2,2,1,1,1,2,2,1,2,1,Asian,Asian,No,Female,"happy,friend,lily,gloom,ugly,daisy,evil,orchid,roach,poison,enjoy,love,heaven,cheer,damage,hurt,rose,gentle","weevil,moth,wasp,tulip,lilac,gnat,vomit,centipede,flea,daffodil",8,18,17,13,,15,,14,,,,16,,12,,11,,10,9,7,6,4,,5,,1,3,2,,,,,9,,10,,8,7,6,,5,,4,,3,,,,,,2,,1,,,,12,20
+100,362,TRUE,R_3NNUZGmB2D0WosK,EN,13.994,80.264,81.901,31,2,2,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,1,1,2,2,1,2,1,6.181,52.177,53.951,29,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Korean,Korean,No,Female,"ugly,friend,lily,happy,moth,daisy,evil,poison,wasp,enjoy,tulip,love,lilac,rose,vomit,hurt,centipede,cheer,damage,gentle,flea,heaven","weevil,roach,gloom,gnat,orchid,daffodil",,20,14,22,21,19,,18,17,15,,16,13,12,11,10,9,8,,7,6,,5,1,,4,3,2,5,,,,,,6,,,,4,,,,,,,,2,,,3,,,1,,,,25,28
+100,162,TRUE,R_3qaFIXGVSzItYtf,EN,5.644,40.539,41.196,28,2,2,2,2,1,1,2,2,1,1,1,1,2,2,2,2,1,1,1,1,2,1,1,1,1,2,2,2,1.175,34.422,35.189,33,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Korean,Korean,No,Female,"orchid,lily,friend,enjoy,ugly,cheer,wasp,love,evil,roach,daisy,gloom,poison,moth,tulip,happy,hurt,lilac,gnat,vomit,centipede,rose,daffodil,damage,flea,heaven,gentle",weevil,1,27,22,26,25,24,23,6,21,20,19,17,18,8,15,4,7,13,10,9,11,12,14,5,,16,2,3,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,14,28
+100,486,TRUE,R_28Ga05Mls5i3sAa,EN,5.978,114.555,119.148,32,2,1,2,1,1,2,2,1,2,2,1,2,2,1,2,1,1,2,1,2,2,1,1,2,1,1,2,1,6.329,112.149,113.175,29,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Asian,Chinese and Vietnamese,Yes,Male,"orchid,lily,friend,daisy,happy,ugly,moth,gloom,evil,roach,wasp,poison,enjoy,tulip,lilac,love,hurt,gnat,vomit,daffodil,centipede,cheer,damage,flea,gentle,heaven,rose",weevil,1,25,27,26,24,23,20,22,21,19,18,17,15,16,14,13,11,12,10,9,4,8,7,6,,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,26,28
+100,269,TRUE,R_322zSrzSTL5xED9,EN,19.409,93.308,93.691,31,2,1,2,2,1,2,1,2,1,2,1,2,2,2,2,2,1,2,1,2,1,2,1,2,2,1,2,1,7.026,43.974,45.268,29,1,1,1,1,2,2,2,1,2,2,2,2,1,1,1,1,2,2,2,2,1,1,2,2,2,1,1,1,German,White,No,Male,"orchid,friend,lily,happy,ugly,moth,daisy,gloom,evil,roach,poison,wasp,enjoy,tulip,love,hurt,vomit,centipede,cheer,damage,flea,heaven,rose,gentle","gnat,weevil,daffodil,lilac",1,24,23,22,21,20,,19,18,17,,16,,15,14,13,12,11,10,9,7,8,6,5,,4,3,2,,,,,,,3,,,,1,,4,,,,,,,,,,,,2,,,,21,26
+100,374,TRUE,R_1NncKmsUk6J6zFY,EN,12.246,168.724,169.638,34,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,8.48,75.435,77.208,31,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,Chinese/caucasian,Yes,Male,"daisy,orchid,friend,happy,lily,lilac,enjoy,ugly,moth,gloom,love,cheer,evil,hurt,wasp,poison,roach,tulip,daffodil,vomit,rose,centipede,gnat,damage,flea,gentle,heaven",weevil,2,26,21,27,25,24,19,12,22,20,23,14,6,11,18,7,15,16,17,13,1,10,9,8,,4,5,3,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,28,28
+100,11994,TRUE,R_2EnJCZSAsSvf2Wc,EN,13.893,65.305,66.101,30,2,1,2,1,1,2,2,1,1,2,2,2,1,1,2,1,1,2,1,2,2,1,1,2,1,1,2,1,10.258,79.07,79.37,44,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Taiwan,Asian,No,Male,"cheer,friend,ugly,lily,happy,moth,gloom,daisy,evil,roach,poison,wasp,enjoy,tulip,hurt,love,gnat,orchid,vomit,damage,flea,rose,gentle,heaven","daffodil,weevil,lilac,centipede",18,23,22,24,21,20,,1,,19,17,15,,16,14,13,12,11,10,9,8,7,6,3,,5,4,2,,,,,,,1,,4,,,,3,,,,,,,,,,,,2,,,,25,28
+100,410,TRUE,R_21GNZ1icPhXTSdF,EN,4.476,149.298,150.358,29,2,1,2,1,2,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,2,1,2,1,5.92,86.71,87.437,29,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,1,2,1,1,2,2,2,1,1,1,American,White/Italian/Hispanic,Yes,Male,"friend,lily,gloom,happy,ugly,moth,daisy,evil,roach,wasp,poison,orchid,enjoy,tulip,hurt,love,gnat,vomit,centipede,cheer,daffodil,heaven,damage,flea,gentle,rose","lilac,weevil",12,25,26,22,24,23,21,20,19,18,17,15,,16,14,13,10,11,9,8,7,3,6,5,,4,2,1,,,,,,,,,,,,,1,,,,,,,,,,,,2,,,,26,26
+4,718,FALSE,R_2VrlR3XCuuRpt03,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+100,236,TRUE,R_1n9M3FoSX8IfHXR,EN,5.589,65.852,66.922,28,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,1.755,44.317,45.083,29,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,Asian,Yes,Female,"friend,lily,happy,ugly,moth,daisy,gloom,evil,wasp,roach,poison,enjoy,tulip,hurt,love,lilac,gnat,cheer,vomit,centipede,daffodil,damage,flea,heaven,rose,gentle,orchid",weevil,27,26,25,24,23,22,21,18,20,19,17,14,16,15,13,12,9,11,10,8,6,7,5,4,,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,28,28
+100,203,TRUE,R_2wS2gTsbiBf1ZkD,EN,18.107,67.722,68.553,51,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,1.154,37.267,37.979,44,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,Hispanic,Yes,Male,"cheer,damage,daffodil,centipede,hurt,orchid,flea,vomit,gnat,gloom,love,happy,tulip,gentle,enjoy,friend,daisy,wasp,moth,roach,evil,lilac,poison,lily,ugly,heaven,rose",weevil,6,14,27,26,7,2,3,1,4,8,9,5,22,11,13,15,18,23,20,21,17,10,19,25,,12,24,16,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,28,28
+100,352,TRUE,R_3po7urgkm1Lt2rN,EN,15.9,139.416,140.589,31,1,1,1,2,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,1,1,1,1,12.693,107.137,109.156,32,1,1,1,2,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,China,Chinese,No,Male,"damage,friend,lily,daisy,happy,ugly,gloom,tulip,evil,enjoy,love,lilac,hurt,cheer,gentle,heaven,rose","weevil,orchid,moth,roach,poison,gnat,wasp,vomit,centipede,daffodil,flea",,15,17,16,,1,,14,,,,13,12,11,8,10,,,,9,4,7,,6,,5,3,2,2,,,,11,,10,,9,8,6,,,,,,7,5,4,,,,3,,1,,,,14,27
+100,255,TRUE,R_Uua0sDHdGSsnGTL,EN,2.809,65.047,66.511,32,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,1,1,2,2,1,2,1,2.299,41.421,42.242,32,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,1,2,2,2,1,1,1,filipino,pacific islander,Yes,Male,"centipede,lily,friend,happy,ugly,moth,daisy,evil,roach,poison,wasp,enjoy,tulip,lilac,love,hurt,gnat,vomit,damage,cheer,daffodil,orchid,gentle,rose,heaven,flea","gloom,weevil",22,23,24,25,26,19,21,20,1,18,17,16,14,15,13,12,11,10,9,8,7,,6,5,,4,2,3,,,,,,,,,,,,,,,,,,,,,,1,,,2,,,,26,27
+100,738,TRUE,R_2xWxpKW7RObt31J,EN,15.033,235.714,255.66,37,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,8.362,95.614,96.68,32,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,,,No,Female,"orchid,daisy,friend,lily,happy,ugly,moth,tulip,roach,enjoy,evil,poison,wasp,daffodil,love,lilac,hurt,gnat,vomit,centipede,cheer,damage,flea,gentle,heaven,rose","gloom,weevil",1,24,26,25,23,22,14,21,20,19,18,17,16,15,8,10,13,12,9,11,2,,7,6,,5,4,3,,,,,,,,,,,,,,,,,,,,,,1,,,2,,,,28,28
+100,296,TRUE,R_2xKw0KFkjgFSMr7,EN,13.768,98.771,99.842,35,2,1,2,2,1,2,2,1,2,2,2,2,1,2,2,1,1,2,1,2,2,2,1,2,1,1,2,1,12.875,51.1,52.267,28,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,,,Yes,,"friend,lily,happy,ugly,moth,gloom,daisy,evil,roach,poison,wasp,enjoy,tulip,love,hurt,lilac,vomit,centipede,heaven,cheer,daffodil,flea,damage,rose,gentle,orchid","weevil,gnat",26,25,24,19,22,23,21,20,18,17,,15,16,14,13,12,11,10,9,8,7,6,5,4,,3,2,1,,,,,,,,,,,2,,,,,,,,,,,,,,1,,,,23,28
+100,305201,TRUE,R_XpPpEO2M8Abjx1n,EN,17.495,67.801,69.266,28,2,1,1,1,2,1,2,1,2,1,2,1,2,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,13.682,73.293,74.548,29,2,1,1,1,2,1,2,1,2,1,2,1,2,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,Japan,Asia,No,Male,"gentle,friend,lily,happy,ugly,daisy,gloom,vomit,evil,poison,enjoy,tulip,love,hurt,rose,cheer,flea,damage,heaven","daffodil,weevil,moth,orchid,roach,wasp,lilac,centipede,gnat",,1,15,19,17,18,,16,,8,,14,,13,12,11,,10,,9,6,7,,5,,4,3,2,4,,,,,,1,,8,,9,,7,,,,6,,5,,,,3,,2,,,,11,16
+100,526,TRUE,R_3MtyfM1oi0FnbLQ,EN,7.485,183.294,185.416,43,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,10.155,121.978,123.465,47,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Chinese,Unity and friendship,No,Female,"ugly,friend,lily,happy,love,moth,gloom,daisy,evil,roach,poison,enjoy,tulip,cheer,lilac,hurt,vomit,gentle,damage,flea,rose,heaven","weevil,wasp,gnat,centipede,daffodil,orchid",,18,21,22,20,19,,14,,17,,16,15,5,13,12,,11,10,9,8,7,6,1,,4,3,2,6,,,,,,5,,4,,3,,,,,,2,,,,,,,,1,,,,14,28
+100,448,TRUE,R_27ytcjroZ4qhEPD,EN,7.775,171.451,173.712,33,2,1,2,1,1,2,2,1,1,2,1,1,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,5.263,109.162,111.23,29,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Paraguayan,Latino/Hispanic,No,Female,"ugly,lily,happy,friend,daisy,poison,evil,roach,love,wasp,enjoy,tulip,lilac,vomit,cheer,hurt,centipede,damage,gentle,heaven,rose,orchid","weevil,moth,flea,gloom,gnat,daffodil",22,19,21,20,,18,,15,17,14,,16,13,9,12,11,10,6,8,7,5,,,1,,3,2,4,,,,,3,,6,,,,5,,,,,,,,,,,4,2,,1,,,,27,28
+100,269,TRUE,R_1F5hMPl9yv2Gjse,EN,13.089,88.569,89.38,35,2,1,1,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,2,1,2,1,15.29,58.342,58.841,31,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Hispanic,Hispanic,Yes,Male,"friend,lily,happy,moth,ugly,gloom,daisy,evil,roach,poison,wasp,enjoy,tulip,love,lilac,hurt,gnat,vomit,centipede,cheer,daffodil,damage,flea,heaven,rose,gentle,orchid",weevil,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,4,5,,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,26,28
+100,381,TRUE,R_2CBzp45l5SckDVc,EN,3.049,121.527,122.63,82,2,1,2,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,2,1,2,1,1,1,1,1.188,75.542,77.667,71,1,1,1,1,2,2,1,1,2,2,1,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Chinese,Asian,No,Male,"gentle,heaven,damage,vomit,hurt,love,enjoy,gloom,ugly,friend,lily,evil,happy,roach,poison,tulip,cheer,rose","centipede,lilac,wasp,daisy,flea,moth,weevil,daffodil,gnat,orchid",,1,18,2,,3,,17,,4,,5,,6,16,7,,15,14,12,,8,,9,,13,11,10,10,,,,5,,8,,1,,9,,2,,,,3,,,,4,,6,,7,,,,24,27
+100,393,TRUE,R_1rug5qKo6I0uPDm,EN,7.181,101.78,103.492,31,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,1,1,2,1,1,2,1,10.184,80.757,81.592,30,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,1,2,2,2,1,1,1,China,asian,No,Female,"orchid,cheer,vomit,hurt,enjoy,poison,daisy,ugly,friend,lily,happy,moth,evil,tulip,love,damage,flea,heaven,rose,gentle","weevil,daffodil,centipede,gloom,gnat,lilac,wasp,roach",1,20,19,18,17,16,,2,,3,,4,,15,14,5,,6,,13,7,,12,8,,11,10,9,,,,,,,2,,3,,5,,6,,,,7,,8,,,4,,,1,,,,27,27
+100,8389,TRUE,R_1rdk1QhANgiFPdN,EN,5.215,159.417,160.316,62,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,1,1,2,1,1,2,1,2.437,100.135,101.651,45,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,1,2,2,2,1,1,1,China,Asian,No,Female,"enjoy,lily,friend,moth,happy,ugly,gloom,evil,roach,orchid,poison,tulip,damage,love,vomit,hurt,cheer,heaven,rose,gentle","wasp,weevil,daisy,lilac,flea,centipede,gnat,daffodil",10,20,19,18,,13,,17,,15,,16,,14,12,1,,11,9,8,,7,4,6,,5,2,3,,,,,5,,8,,6,,7,,4,,,,1,,,,3,,,,2,,,,27,27
+100,321,TRUE,R_2vjNBErTiRYxaP4,EN,9.136,62.837,64.569,28,1,1,1,1,2,2,2,1,1,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,6.699,40.498,42.864,28,1,1,1,1,2,2,2,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,White,White,Yes,Male,"friend,lily,happy,weevil,ugly,gloom,moth,daisy,evil,roach,poison,wasp,enjoy,tulip,lilac,love,hurt,gnat,vomit,centipede,cheer,damage,flea,heaven,rose,gentle,orchid",daffodil,27,26,25,24,23,22,,21,20,19,18,17,15,16,14,13,12,11,10,9,8,6,7,5,4,3,2,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,16,27
+3,8,FALSE,R_2dWRzRH46Usq01G,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+100,300,TRUE,R_2TviNO4xaONfqnY,EN,17.132,100.666,102.026,33,2,1,1,1,2,2,2,1,1,2,2,2,2,1,2,1,2,2,2,2,1,1,2,2,2,1,1,1,9.937,65.764,67.561,38,1,1,1,1,2,2,1,1,2,2,2,2,2,1,1,1,2,2,2,2,1,1,2,2,2,1,1,1,Taiwan,Asian,No,Female,"friend,gentle,lily,happy,ugly,moth,gloom,daisy,evil,roach,enjoy,poison,tulip,love,hurt,vomit,cheer,damage,heaven,rose","daffodil,centipede,orchid,wasp,lilac,gnat,flea,weevil",,2,20,19,,18,,17,,16,,15,,14,13,11,,12,10,9,8,7,6,5,,4,3,1,3,,,,7,,1,,2,,6,,5,,,,4,,,,,,,,8,,,,18,26
+100,333,TRUE,R_24Both7f99Aazk5,EN,6.656,56.895,58.078,29,1,1,1,1,2,2,2,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,1.635,39.206,40.773,30,1,1,1,1,2,2,2,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,,White,No,Male,"friend,happy,lily,weevil,ugly,moth,gloom,daisy,evil,roach,enjoy,poison,wasp,tulip,love,lilac,hurt,gnat,vomit,centipede,cheer,daffodil,damage,orchid,flea,gentle,rose,heaven",,24,26,27,28,25,23,22,21,20,19,18,17,16,15,14,11,13,12,10,9,8,7,6,5,4,2,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,27
+100,278,TRUE,R_2sQKIUWmWfpWQWV,EN,11.577,111.805,113.061,34,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,4.204,54.882,56.539,31,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,"White, European",Yes,Male,"heaven,lily,friend,happy,poison,daisy,ugly,tulip,gloom,moth,evil,roach,wasp,enjoy,love,lilac,hurt,gnat,vomit,centipede,cheer,flea,daffodil,damage,gentle,rose,orchid",weevil,27,25,26,1,22,24,23,21,20,19,18,17,16,15,8,14,13,5,12,11,6,9,10,7,,4,2,3,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,28,28
+100,282,TRUE,R_3JJipr7iyODx7Qp,EN,13.201,101.459,102.964,36,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,11.426,71.769,72.801,34,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,China,Chinese,No,Female,"orchid,friend,lily,happy,ugly,moth,gloom,evil,daisy,roach,poison,wasp,enjoy,love,lilac,hurt,gnat,centipede,vomit,cheer,daffodil,damage,flea,rose,heaven,gentle","tulip,weevil",1,26,24,25,23,22,21,20,18,19,17,16,15,14,,13,12,11,10,8,9,7,6,5,,4,3,2,,,,,,,,,,,,,,,1,,,,,,,,,,2,,,,28,28
+100,23781,TRUE,R_AtaFgifekNaIOLD,EN,11.832,210.111,211.013,48,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,2,2,1,2,2,2,1,2,1,1,2,1,9.282,133.805,136.355,34,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,China,,No,Female,"gentle,rose,heaven,cheer,damage,hurt,love,tulip,poison,enjoy,evil,ugly,moth,lily,happy,friend,gloom","orchid,flea,daffodil,centipede,vomit,gnat,roach,wasp,daisy,lilac,weevil",,1,2,3,,5,,4,,,,6,,7,8,10,,9,,11,,17,13,12,,15,14,16,1,,,,2,,3,,4,5,6,,10,,,,8,,7,,9,,,,11,,,,27,28
+100,249,TRUE,R_vet8T2L2N1pCT8B,EN,12.7,98.328,99.287,33,2,1,2,2,1,1,1,2,1,1,1,1,1,2,2,2,1,1,2,2,2,2,1,2,2,1,2,2,4.87,50.883,52.688,32,1,1,1,1,2,2,2,1,2,2,2,2,2,1,1,1,2,2,1,2,1,1,2,2,2,1,1,1,China,Chinese,No,Female,"orchid,ugly,friend,lily,happy,moth,poison,gloom,daisy,evil,enjoy,tulip,love,vomit,damage,hurt,cheer,flea,gentle,rose,heaven","daffodil,weevil,roach,lilac,wasp,centipede,gnat",1,19,20,21,18,15,,17,,14,,16,,13,12,11,,7,,10,9,8,6,2,,5,4,3,,,,,,,1,,6,,7,,4,,,,5,,3,,,,,,2,,,,15,24
+100,174,TRUE,R_3mjBfK2uHAeUnnv,EN,6.289,67.857,69.254,33,2,1,2,2,1,2,2,1,1,2,1,2,2,2,2,1,1,2,1,2,2,2,1,2,1,1,2,1,3.01,29.565,30.266,28,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,China,Asian,No,Female,"orchid,gnat,friend,happy,lily,moth,poison,daisy,weevil,ugly,gloom,roach,wasp,evil,enjoy,love,tulip,lilac,hurt,centipede,vomit,cheer,daffodil,damage,flea,heaven,rose,gentle",,1,28,27,26,25,24,23,22,20,21,2,19,18,16,17,15,13,7,12,14,8,11,6,10,9,4,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,28
+100,1402,TRUE,R_3rVaEX6Jgb7RZgA,EN,11.445,50.089,52.856,28,1,1,1,1,2,2,2,1,2,1,1,2,2,1,1,1,1,2,2,2,2,1,2,2,2,1,1,1,7.319,33.062,33.299,33,1,1,1,1,2,2,1,1,2,1,2,1,2,1,1,1,2,2,2,2,2,2,2,2,2,1,1,1,China,Asian,No,Male,"lily,friend,moth,happy,ugly,daisy,gloom,evil,roach,enjoy,poison,orchid,tulip,lilac,damage,love,hurt,cheer,heaven,rose,gentle","weevil,wasp,daffodil,gnat,vomit,centipede,flea",12,21,20,19,,15,,18,,,,17,14,16,13,10,,11,9,8,6,7,3,5,,4,1,2,,,,,7,,3,,6,5,4,,,,,,2,,,,,,,,1,,,,17,24
+100,486,TRUE,R_1erAE3Kt6vum2qA,EN,10.89,54.509,56.235,28,1,1,1,1,2,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,1,1,2,2,2,1,1,1,6.496,40.949,41.736,28,1,1,1,1,1,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,1,1,2,2,2,1,1,1,Italian,White,No,Male,"orchid,poison,evil,wasp,ugly,enjoy,friend,happy,tulip,hurt,love,gnat,vomit,centipede,damage,gentle,heaven,rose","daisy,lilac,roach,daffodil,gloom,cheer,moth,lily,weevil,flea",1,16,18,17,,15,,,14,13,12,10,,11,9,6,4,2,,3,,,,5,,8,,7,,,,,10,,4,6,,,,,2,,,,,,3,,1,5,7,,9,,8,,14,23
+100,329,TRUE,R_3KZmpHOjTAYkkmP,EN,2.66,37.229,38.087,30,2,2,2,2,1,1,2,2,1,1,1,1,2,2,2,2,1,1,1,1,2,1,1,1,1,2,2,2,3.567,28.735,29.596,28,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,white,Yes,Female,"friend,lily,happy,weevil,ugly,moth,gloom,daisy,evil,roach,poison,wasp,enjoy,tulip,love,lilac,hurt,gnat,vomit,centipede,cheer,daffodil,damage,flea,orchid,heaven,gentle,rose",,25,27,28,26,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,28
+100,240,TRUE,R_2QslWEBZqLedNFa,EN,14.678,79.722,80.964,30,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,2,1,2,1,3.211,47.163,48.195,28,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,Asian,Yes,Female,"friend,lily,happy,ugly,moth,gloom,daisy,evil,poison,roach,wasp,enjoy,tulip,love,hurt,lilac,gnat,centipede,vomit,daffodil,cheer,flea,damage,orchid,heaven,rose,gentle",weevil,24,27,26,25,22,23,20,21,18,19,17,15,16,14,13,12,11,9,10,8,7,6,5,4,,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,27,28
+100,274,TRUE,R_UACFtSCuuXbgqIh,EN,6.727,77.991,79.199,32,2,1,2,1,2,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,3.996,51.218,52.071,31,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,US,Asian,No,Female,"lily,friend,happy,ugly,moth,flea,gloom,evil,daisy,roach,poison,enjoy,lilac,tulip,love,vomit,hurt,cheer,orchid,damage,gentle,heaven,rose","weevil,wasp,gnat,daffodil,centipede",19,21,23,22,6,20,,18,,16,,17,13,15,14,12,,11,10,8,9,7,5,4,,3,1,2,,,,,,,4,,5,,3,,,,,,2,,,,,,,,1,,,,27,28
+100,359,TRUE,R_2e4kLPOOVOdKxSy,EN,2.845,143.397,144.343,49,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,5.464,38.307,38.625,30,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,Caucasian,Yes,Male,"orchid,hurt,lily,friend,ugly,gloom,happy,weevil,evil,moth,daisy,roach,poison,wasp,enjoy,tulip,love,lilac,gnat,vomit,centipede,damage,gentle,cheer,daffodil,flea,rose,heaven",,1,23,27,28,26,22,25,24,21,20,19,2,18,17,16,15,14,13,12,9,11,6,10,5,8,7,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,28
+100,306,TRUE,R_1LTp9XoFlxfL2AF,EN,21.539,75.756,76.14,31,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,9.711,42.013,42.828,28,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American - United States,White and Aisan,Yes,Male,"lily,friend,ugly,happy,moth,gloom,daisy,roach,poison,evil,wasp,enjoy,vomit,tulip,love,lilac,hurt,cheer,gnat,centipede,flea,daffodil,orchid,damage,gentle,heaven,rose",weevil,23,25,27,26,21,24,22,18,20,13,19,17,16,15,14,12,11,9,8,10,7,6,5,3,,4,1,2,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,28,28
+100,286,TRUE,R_DcSJEmO3xlAHvc5,EN,3.921,112.202,113.849,79,2,1,2,1,1,2,2,1,1,2,2,2,2,1,2,1,1,2,1,2,2,2,1,2,2,1,2,1,7.092,40.785,41.769,45,1,1,1,1,2,2,2,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,arab,middle eastern,Yes,Female,"happy,lily,moth,cheer,friend,hurt,ugly,evil,gloom,roach,daisy,poison,wasp,enjoy,tulip,love,lilac,vomit,orchid,damage,heaven,rose,gentle","gnat,weevil,flea,centipede,daffodil",19,23,22,21,,20,,4,,18,,6,17,16,15,14,13,12,10,8,11,9,3,7,,1,2,5,,,,,3,,5,,4,,1,,,,,,,,,,,,,,2,,,,26,27
+100,160039,TRUE,R_zSWFTbEAd8w4IeZ,EN,16.383,113.515,114.465,33,2,1,2,1,2,2,2,1,1,2,2,2,2,1,2,1,1,2,1,2,2,2,1,2,2,1,2,1,10.646,55.606,56.658,29,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,Israeli,White,No,Male,"friend,wasp,lily,poison,tulip,roach,ugly,evil,hurt,gloom,daisy,love,lilac,gnat,enjoy,daffodil,moth,vomit,happy,centipede,cheer,flea,damage,heaven,rose,gentle,orchid",weevil,27,26,25,24,22,23,16,21,20,18,14,9,13,12,5,15,2,4,6,8,11,10,17,7,,19,3,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,25,28
+100,297,TRUE,R_2uETky2RktM8qTj,EN,7.125,79.885,90.327,28,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,3.73,56.185,58.571,30,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,American,Asian,Yes,Female,"friend,lily,happy,ugly,moth,gloom,daisy,evil,roach,poison,wasp,enjoy,tulip,love,lilac,hurt,gnat,vomit,cheer,centipede,daffodil,damage,flea,heaven,rose,gentle,orchid",weevil,27,26,25,24,23,22,21,19,20,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,,3,2,1,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,28,28
+100,281,TRUE,R_2zXP07QRrzh2Sue,EN,17.994,104.872,106.276,28,2,1,2,1,1,2,2,1,1,2,1,2,2,1,2,1,1,2,1,2,2,2,1,2,1,1,2,1,6.211,83.388,84.292,29,1,1,1,1,2,2,1,1,2,2,2,2,1,1,1,1,2,2,2,2,1,2,2,2,2,1,1,1,american,korean,Yes,Male,"enjoy,evil,ugly,roach,hurt,orchid,poison,love,wasp,tulip,gnat,lilac,happy,friend,lily,weevil,moth,gloom,daisy,vomit,centipede,cheer,daffodil,damage,flea,heaven,rose,gentle",,6,28,27,26,25,24,23,22,21,20,11,5,12,8,10,1,9,7,4,2,19,18,17,3,16,13,15,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,28
