@@ -12,7 +12,7 @@ focusing on the following racial groups: white, asian, and other (non-white and 
 ## Method + Data Collection
 The test was divided into two parts: q65 and q66. 
 q65 seeks to elicit implicit biases, while q66 acts as a control. 
-Forty-five ECON 145 students participated. 
+Forty-five UCSB economics undergraduates participated. 
 Two participants did not finish the test and were excluded from analysis. 
 Thus, the following analyses are based on the the 43 students who completed the study. 
 Table 1 displays the racial breakdown of these 43 participants.
